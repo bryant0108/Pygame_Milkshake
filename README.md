@@ -10,6 +10,8 @@
 吃到蛋糕可以補血
 吃到"鼠弟"可以發射兩發子彈
 
+===
+
 若要使用請按以下步驟
 
 step1. git clone https://github.com/bryant0108/Pygame_Milkshake.git
